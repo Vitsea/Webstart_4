@@ -6,4 +6,4 @@ excerpt_separator:  <!--more-->
 
 Windsurfing
 
-![Alt boat]{{ site.baseurl }}/(assets/winds.jpg)
+![Alt boat]({{ site.baseurl }}/assets/winds.jpg)
