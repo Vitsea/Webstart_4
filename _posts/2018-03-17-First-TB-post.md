@@ -4,4 +4,5 @@ title: Hello Hydeout
 excerpt_separator:  <!--more-->
 ---
 
-First post
+Windsurfing
+![Alt boat](_screenshots/winds.jpg)
